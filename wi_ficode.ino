@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 
 //-------- Enter Your Wi-Fi Details -----//
-char ssid[] = "D R E A M I N'";  //SSID
-char pass[] = "helloworld1"; //Password
+char ssid[] = "";  //SSID
+char pass[] = ""; //Password
 //--------------------------------------//
 
 WiFiClient  client;
