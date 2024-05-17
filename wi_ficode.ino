@@ -8,9 +8,9 @@ char pass[] = ""; //Password
 
 WiFiClient  client;
 
-unsigned long myChannelField = 1658718; // Channel ID
+unsigned long myChannelField = ; // Channel ID
 const int ChannelField = 1; // Which To Field Write
-const char * myWriteAPIKey = "DL73S54DWPPINBJM"; // Write API Key
+const char * myWriteAPIKey = ""; // Write API Key
 
 String value = "";
 void setup()
